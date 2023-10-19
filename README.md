@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akshay-joshilkar
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Automation Testing using Selenium WebDriver
+- 👀 I’m interested in developing Frontend Applications
 - 💞️ I’m looking to know about how to start with Open Source Projects
 - 📫 How to reach me joshilkarakshay987@gmail.com
 
