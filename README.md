@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @akshay-joshilkar
-- 👀 I’m interested in developing Frontend Applications
-- 💞️ I’m looking to know about how to start with Open Source Projects
+- 👋 Hi, I’m Akshay
+- 💻 Currently working as SDET at redBus
+- 🧑🏻‍💻 Developing scripts to automate the redBus app
+- 💞️ I’m looking to know about how to start iOS app development and Open Source Projects
 - 📫 How to reach me joshilkarakshay987@gmail.com
 
 <!---
